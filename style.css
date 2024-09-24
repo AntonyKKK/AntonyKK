@@ -17,6 +17,21 @@ h2{color: #683e00d3;
     font-size: medium;
 }
 
+.mid {
+    color: rgb(29, 251, 0);
+    font-size: medium;
+}
+
+.bad {
+    color: rgb(251, 0, 0);
+    font-size: medium;
+}
+
+.good {
+    color: rgb(17, 0, 251);
+    font-size: medium;
+}
+
 .rodeo {
     width: 60%;
 }
