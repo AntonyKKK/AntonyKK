@@ -1,9 +1,19 @@
 body {
 background-color: rgb(41, 38, 35);
 }
-p{color: #ffffff;}
-h1{color: #ffffff;}
-li{color: #ffffff;}
-h1{font-style: oblique;}
-h2{color: #683e00d3;}
+p{color: #ffffff;
+}
+h1{color: #ffffff;
+}
+li{color: #ffffff;
+}
+h1{font-style: oblique;
+}
+h2{color: #683e00d3;
+}
+
+.perfection {
+    color: blueviolet;
+    font-size: medium;
+}
 
